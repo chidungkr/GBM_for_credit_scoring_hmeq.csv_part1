@@ -1,0 +1,1 @@
+# GBM_for_credit_scoring_hmeq.csv_part1
